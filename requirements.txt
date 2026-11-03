@@ -1,0 +1,4 @@
+opencv-python<5
+PyQt5
+numpy
+requests

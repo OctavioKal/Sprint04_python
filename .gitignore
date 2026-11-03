@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos gerados em tempo de execucao
+fotos_jovi/
+config_jovi.json
+galeria_jovi.json
+*.tmp
+*.corrompido
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
